@@ -19,6 +19,8 @@ A responsive **Time Zone Dashboard** built with React, TypeScript, Tailwind CSS,
 * **Styling**: Tailwind CSS
 * **UI Components**: Shadcn UI
 * **Icons**: Lucide React
+  
+check it out [https://llamacoder.together.ai/share/v2/7OG33wwLJEneKki7]
 
 ## 💡 Purpose
 
